@@ -2,7 +2,7 @@
 
 ## **Flappy Bird Clone Game**
 
-![Flappy Bird](https://via.placeholder.com/400x200?text=Flappy+Bird+Clone+Game)
+![Flappy Bird](https://github.com/thisisalokdon/Flappy-Bird-/blob/main/imagess/1.JPG?raw=true))
 
 Welcome to **Flappy Bird Clone**, a browser-based game built using **HTML**, **CSS**, and **JavaScript**! Control a bird and navigate it through obstacles (pipes) without hitting them. Test your reflexes and try to achieve the highest score!
 
