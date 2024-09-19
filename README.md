@@ -26,10 +26,10 @@ Welcome to **Flappy Bird Clone**, a browser-based game built using **HTML**, **C
 ## **Screenshots:**
 
 ### Gameplay:
-![Gameplay Screenshot](https://via.placeholder.com/400x300?text=Gameplay+Screenshot)
+![Gameplay Screenshot](https://github.com/thisisalokdon/Flappy-Bird-/blob/main/imagess/1.JPG?raw=true)
 
 ### Game Over:
-![Game Over Screenshot](https://via.placeholder.com/400x300?text=Game+Over+Screenshot)
+![Game Over Screenshot](https://github.com/thisisalokdon/Flappy-Bird-/blob/main/imagess/2.JPG?raw=true)
 
 ---
 
