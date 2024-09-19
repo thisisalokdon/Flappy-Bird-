@@ -84,7 +84,7 @@ Enjoy the game and feel free to contribute!
 ---
 
 ### **Contributors**:
-- **Your Name** - Er. Alok Tripathi
+- **Name** - Er. Alok Tripathi
   
 
 If you'd like to contribute, feel free to create a pull request.
